@@ -1,0 +1,11 @@
+c:\users\sharkgaming\documents\visual studio 2015\Projects\StarPowerPlacer\StarPowerPlacer\bin\Debug\StarPowerPlacer.exe.config
+c:\users\sharkgaming\documents\visual studio 2015\Projects\StarPowerPlacer\StarPowerPlacer\obj\Debug\StarPowerPlacer.vbprojResolveAssemblyReference.cache
+c:\users\sharkgaming\documents\visual studio 2015\Projects\StarPowerPlacer\StarPowerPlacer\obj\Debug\StarPowerPlacer.MainForm.resources
+c:\users\sharkgaming\documents\visual studio 2015\Projects\StarPowerPlacer\StarPowerPlacer\obj\Debug\StarPowerPlacer.Resources.resources
+c:\users\sharkgaming\documents\visual studio 2015\Projects\StarPowerPlacer\StarPowerPlacer\obj\Debug\StarPowerPlacer.vbproj.GenerateResource.Cache
+c:\users\sharkgaming\documents\visual studio 2015\Projects\StarPowerPlacer\StarPowerPlacer\obj\Debug\StarPowerPlacer.xml
+c:\users\sharkgaming\documents\visual studio 2015\Projects\StarPowerPlacer\StarPowerPlacer\bin\Debug\StarPowerPlacer.exe
+c:\users\sharkgaming\documents\visual studio 2015\Projects\StarPowerPlacer\StarPowerPlacer\bin\Debug\StarPowerPlacer.pdb
+c:\users\sharkgaming\documents\visual studio 2015\Projects\StarPowerPlacer\StarPowerPlacer\bin\Debug\StarPowerPlacer.xml
+c:\users\sharkgaming\documents\visual studio 2015\Projects\StarPowerPlacer\StarPowerPlacer\obj\Debug\StarPowerPlacer.exe
+c:\users\sharkgaming\documents\visual studio 2015\Projects\StarPowerPlacer\StarPowerPlacer\obj\Debug\StarPowerPlacer.pdb
